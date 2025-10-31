@@ -1,3 +1,10 @@
 it's sample file to check
 for stash file edited
 after commited now checking stash
+
+
+changed from remote repo
+
+it's sample file to check
+for stash file edited
+after commited now checking stash
