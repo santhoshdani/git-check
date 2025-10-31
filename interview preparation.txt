@@ -1,0 +1,6 @@
+Agile Methodology:
+Agile is an iterative approach to software development that focuses on flexibility and collaboration. Instead of a linear process, it breaks work into smaller, manageable increments, allowing for continuous feedback and quicker adjustments.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Scrum Framework:
+Scrum is a specific Agile framework that organizes work into short cycles called sprints, usually two to four weeks. It involves key roles (Product Owner, Scrum Master, and Development Team) and includes regular ceremonies like sprint planning, daily stand-ups, sprint reviews, and retrospectives. This helps teams continuously improve and adapt.
+
