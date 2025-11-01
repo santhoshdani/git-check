@@ -1,1 +1,3 @@
-this is my git commit
+this is my git commit                   
+filr added now checking modified        
+3rd line added above 2 lines already added to commit
