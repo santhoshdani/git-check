@@ -1,0 +1,4 @@
+Agile Methodology:
+Agile is an iterative approach to software development that focuses on flexibility and collaboration. Instead of a linear process, it breaks work into smaller, manageable increments, allowing for continuous feedback and quicker adjustments.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+some lines are erased for pull check
